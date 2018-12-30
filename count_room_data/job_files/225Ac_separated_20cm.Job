@@ -1,0 +1,9 @@
+SET_DETECTOR 2
+SET_PRESET_LIVE 21600
+LOOP 500
+START
+WAIT
+SAVE "C:\User\Radium_Bernstein_Oct2018\experiment\225Ac_separated_10cm_???.Chn"
+SAVE "C:\User\Radium_Bernstein_Oct2018\experiment\225Ac_separated_10cm_???.Spe"
+CLEAR
+END_LOOP

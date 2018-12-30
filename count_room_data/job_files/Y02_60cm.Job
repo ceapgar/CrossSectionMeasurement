@@ -1,0 +1,9 @@
+SET_DETECTOR 2
+SET_PRESET_LIVE 1800
+LOOP 500
+START
+WAIT
+SAVE "C:\User\Radium_Bernstein_Oct2018\experiment\monitor_foils\AN111218_Y02_60cm_???.Chn"
+SAVE "C:\User\Radium_Bernstein_Oct2018\experiment\monitor_foils\AN111218_Y02_60cm_???.Spe"
+CLEAR
+END_LOOP
